@@ -1,3 +1,3 @@
 # Kokoa Clone
 
-CSS got so much better!
+Kokoa Clone with HTML & CSS
